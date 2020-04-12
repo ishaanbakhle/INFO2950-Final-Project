@@ -3,3 +3,11 @@ ib257@cornell.edu
 
 Repository Link: https://github.com/ishaanbakhle/INFO2950-Final-Project
 
+Data sources that I am considering: 
+- # of tweets mentioning healthcare over the past few months to assess how the spread of the coronavirus
+impacts popular concern regarding global healthcare systems.  I would aggregate this dataset using the 
+Twitter API, which I have made a request for.
+- The IMF's consumer price index dataset in order to see how recent commercial and international relations
+developments have impacted trade.  The dataset can be found at http://data.imf.org/?sk=4FFB52B2-3653-409A-B471-D47B46D904B5.
+- NYC taxi trip data to assess how recent state and federal travel and commuting advisory affects taxi use.
+The data can be found at https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page.
