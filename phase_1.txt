@@ -4,7 +4,7 @@ ib257@cornell.edu
 Repository Link: https://github.com/ishaanbakhle/INFO2950-Final-Project
 
 Data sources that I am considering: 
-- # of tweets mentioning healthcare over the past few months to assess how the spread of the coronavirus
+- Number of tweets mentioning healthcare over the past few months to assess how the spread of the coronavirus
 impacts popular concern regarding global healthcare systems.  I would aggregate this dataset using the 
 Twitter API, which I have made a request for.
 - The IMF's consumer price index dataset in order to see how recent commercial and international relations
